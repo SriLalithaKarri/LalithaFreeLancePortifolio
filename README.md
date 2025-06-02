@@ -6,3 +6,7 @@ Key Features:
   📌 Position Properties: Proper positioning for various elements to maintain layout consistency.
   📌 Bootstrap Modal: interactive content display.
 Technologies Used : HTML, CSS (including animations and transitions)  and Bootstrap
+
+## 📌 Live Demo
+
+[View Website]( https://srilalithakarri.github.io/LalithaFreeLancePortifolio/)
